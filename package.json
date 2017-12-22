@@ -21,9 +21,8 @@
     "rootpath": "^0.1.2",
     "socket.io": "^2.0.4"
   },
-  "engines": {
+   "engines": {
     "node": "6.11.1"
   }
-}
-  "license": "MIT"
+ "license": "MIT"
 }
